@@ -1,4 +1,9 @@
 ## I'm Berkay 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayilikoba&show_icons=true&theme=radical)
+## 🚀 Technologies & Tools
+- Programming: Python, C, C++, JavaScript
+- ML / AI: TensorFlow, Keras, OpenCV
+- Embedded: Arduino, Raspberry Pi, ROS
+- Tools: Git, VSCode, Linux, Docker
+
 
