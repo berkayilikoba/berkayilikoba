@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate developer interested in AI, robotics, and embedded systems</h3>
+<h3 align="center">A passionate computer engineering student interested in AI, robotics, embedded systems and computer vision.</h3>
 
 <h3 align="left">About Me</h3>
 <p>
