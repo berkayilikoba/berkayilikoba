@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate developer interested in AI, robotics, and embedded systems</h3>
 
+<h3 align="left">About Me</h3>
+<p>
+I'm a Computer Engineering student with a strong interest in robotics, machine learning, and embedded programming. 
+I have experience in developing computer vision applications using OpenCV and designing AI models with TensorFlow and Keras. 
+Currently, I lead the software team for a combat UAV project competing in Teknofest.
+I enjoy combining hardware and software to create intelligent autonomous systems.
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/berkay-ilikoba/" target="blank">
@@ -51,22 +60,3 @@
   </a>
 </p>
 
-<h3 align="left">🤖 Robotics:</h3>
-<p align="left">
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/ROS_logo.svg" alt="ros" width="40" height="40"/>
-  </a>
-  <a href="https://px4.io/" target="_blank" rel="noreferrer">
-    <img src="https://px4.io/assets/img/px4_logo.svg" alt="px4" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">🎮 Simulation:</h3>
-<p align="left">
-  <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Gazebo_logo.svg" alt="gazebo" width="40" height="40"/>
-  </a>
-  <a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/RViz_icon.svg" alt="rviz" width="40" height="40"/>
-  </a>
-</p>
